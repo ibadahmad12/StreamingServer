@@ -1,0 +1,5 @@
+
+GET http://localhost:8000/video HTTP/1.1
+range : 0
+video : video.mp4
+
